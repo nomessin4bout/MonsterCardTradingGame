@@ -1,0 +1,14 @@
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\bin\Debug\net8.0\MonsterCardTradingGame.exe
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\bin\Debug\net8.0\MonsterCardTradingGame.deps.json
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\bin\Debug\net8.0\MonsterCardTradingGame.runtimeconfig.json
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\bin\Debug\net8.0\MonsterCardTradingGame.dll
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\bin\Debug\net8.0\MonsterCardTradingGame.pdb
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.AssemblyInfoInputs.cache
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.AssemblyInfo.cs
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.csproj.CoreCompileInputs.cache
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.dll
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\refint\MonsterCardTradingGame.dll
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.pdb
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.genruntimeconfig.cache
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\ref\MonsterCardTradingGame.dll
