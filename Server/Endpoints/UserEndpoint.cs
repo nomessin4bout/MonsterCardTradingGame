@@ -52,7 +52,7 @@ namespace MCTG.Server.Endpoints
             if (loginUser != null && users.TryGetValue(loginUser.Username, out var existingUser) &&
                 existingUser.Password == loginUser.Password)
             {
-                var token = GenerateToken();
+                var token = generateRandomToken_SHA256();
                 sessions[token] = loginUser.Username;
                 response.WriteResponse("HTTP/1.0 200 OK", $"<html><body>Benutzer angemeldet, Token: {token}</body></html>");
             }
@@ -62,7 +62,7 @@ namespace MCTG.Server.Endpoints
             }
         }
 
-        private string GenerateToken()
+        private string generateRandomToken_SHA256()
         {
             var tokenData = new byte[32];
             RandomNumberGenerator.Fill(tokenData);

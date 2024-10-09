@@ -36,7 +36,7 @@ namespace MCTG.Server.Http
 
                 userEndpoint.HandleRequest(request, response);
 
-                Console.WriteLine("\n------------------------------------------------\n");
+                Console.WriteLine(".........................................\n\n\n");
             }
         }
     }

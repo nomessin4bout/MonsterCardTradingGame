@@ -12,3 +12,4 @@ C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8
 C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.pdb
 C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.genruntimeconfig.cache
 C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\ref\MonsterCardTradingGame.dll
+C:\Users\_\Desktop\HELL_Semesterprojekt_V3\MonsterCardTradingGame\obj\Debug\net8.0\MonsterCardTradingGame.sourcelink.json
