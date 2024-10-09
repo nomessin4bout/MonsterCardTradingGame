@@ -3,64 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\server\\http\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\server\\http\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\server\\endpoints\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\server\\endpoints\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\endpoints\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\elementeffectiveness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\elementeffectiveness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\monsterspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\monsterspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\game\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\server\\http\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\server\\http\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\server\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|c:\\users\\_\\desktop\\hell_semesterprojekt_v3\\monstercardtradinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\elementeffectiveness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\elementeffectiveness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\game\\monsterspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:game\\monsterspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\server\\http\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\httpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\server\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508109B4-2CB5-4CDB-85CA-92D1C2B74623}|MonsterCardTradingGame.csproj|solutionrelative:server\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Stack.cs",
+              "RelativeDocumentMoniker": "Game\\Stack.cs",
+              "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Stack.cs",
+              "RelativeToolTip": "Game\\Stack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:56:19.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Battle.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Battle.cs",
               "RelativeDocumentMoniker": "Game\\Battle.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Card.cs",
               "RelativeDocumentMoniker": "Game\\Card.cs",
@@ -100,20 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Deck.cs",
               "RelativeDocumentMoniker": "Game\\Deck.cs",
               "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Deck.cs",
               "RelativeToolTip": "Game\\Deck.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:41:58.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ElementEffectiveness.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\ElementEffectiveness.cs",
               "RelativeDocumentMoniker": "Game\\ElementEffectiveness.cs",
@@ -121,12 +138,11 @@
               "RelativeToolTip": "Game\\ElementEffectiveness.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:41:52.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:41:52.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MonsterCard.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\MonsterCard.cs",
               "RelativeDocumentMoniker": "Game\\MonsterCard.cs",
@@ -134,12 +150,11 @@
               "RelativeToolTip": "Game\\MonsterCard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:41:20.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:41:20.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MonsterSpecialties.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\MonsterSpecialties.cs",
               "RelativeDocumentMoniker": "Game\\MonsterSpecialties.cs",
@@ -147,25 +162,24 @@
               "RelativeToolTip": "Game\\MonsterSpecialties.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:41:05.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:41:05.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Package.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Package.cs",
               "RelativeDocumentMoniker": "Game\\Package.cs",
               "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\Package.cs",
               "RelativeToolTip": "Game\\Package.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:40:56.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "SpellCard.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Game\\SpellCard.cs",
               "RelativeDocumentMoniker": "Game\\SpellCard.cs",
@@ -173,38 +187,37 @@
               "RelativeToolTip": "Game\\SpellCard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:40:47.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:40:47.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Endpoints\\UserEndpoint.cs",
               "RelativeDocumentMoniker": "Server\\Endpoints\\UserEndpoint.cs",
               "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Endpoints\\UserEndpoint.cs",
               "RelativeToolTip": "Server\\Endpoints\\UserEndpoint.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA5wA4AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:38:46.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "HttpRequest.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Http\\HttpRequest.cs",
               "RelativeDocumentMoniker": "Server\\Http\\HttpRequest.cs",
               "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Http\\HttpRequest.cs",
               "RelativeToolTip": "Server\\Http\\HttpRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:38:38.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "HttpResponse.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Http\\HttpResponse.cs",
               "RelativeDocumentMoniker": "Server\\Http\\HttpResponse.cs",
@@ -212,25 +225,24 @@
               "RelativeToolTip": "Server\\Http\\HttpResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:38:12.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:38:12.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HttpServer.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Http\\HttpServer.cs",
               "RelativeDocumentMoniker": "Server\\Http\\HttpServer.cs",
               "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Http\\HttpServer.cs",
               "RelativeToolTip": "Server\\Http\\HttpServer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAD4vyEAAABDAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:38:01.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "StreamTracer.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\Http\\StreamTracer.cs",
               "RelativeDocumentMoniker": "Server\\Http\\StreamTracer.cs",
@@ -238,25 +250,24 @@
               "RelativeToolTip": "Server\\Http\\StreamTracer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:38:00.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T16:38:00.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\User.cs",
               "RelativeDocumentMoniker": "Server\\User.cs",
               "ToolTip": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Server\\User.cs",
               "RelativeToolTip": "Server\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T16:36:16.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\_\\Desktop\\HELL_Semesterprojekt_V3\\MonsterCardTradingGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

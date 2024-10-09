@@ -5,6 +5,8 @@
         public string Username { get; set; } = "";
         public string Password { get; set; } = "";
         public int Coins { get; set; } = 20; 
+
+        // Vielleicht dann die Klassen verwenden
         public List<Card> Stack { get; set; } = new List<Card>();
         public List<Card> Deck { get; set; } = new List<Card>(); 
 
